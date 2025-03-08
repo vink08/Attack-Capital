@@ -75,7 +75,7 @@ Attack-Capital/
    ```
 3. Create a `.env.local` file with the following environment variable:
    ```env
-   NEXT_PUBLIC_API_URL=http://localhost:5000
+   NEXT_PUBLIC_API_URL=http://localhost:4000
    ```
 4. Start the development server:
    ```bash
